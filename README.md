@@ -1,4 +1,5 @@
-# :womans_hat: AI-Powered Fashion Visual Search & Price Prediction "FASHIONEAR"
+# :womans_hat: AI-Powered Fashion Visual Search & Price Prediction 
+#                     "FASHIONEAR"
 
 This project is a **graduation project** that improves online fashion shopping using **Artificial Intelligence**. It combines **visual search** and **price prediction** for fashion items.
 
