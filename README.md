@@ -4,7 +4,7 @@ This project is a **graduation project** that improves online fashion shopping u
 
 ---
 
-## 🔹 Features
+## 📌  Features
 
 ### 1. Visual Search
 - Upload an image of a fashion item.
@@ -19,7 +19,7 @@ This project is a **graduation project** that improves online fashion shopping u
 
 ---
 
-## 🔹 Technologies Used
+## 💻 Technologies Used
 - Python, TensorFlow, Keras
 - Pre-trained deep learning models: **InceptionV3** (for classification) & **MobileNetV2** (for price prediction)
 - Web scraping: **BeautifulSoup, Selenium**
@@ -27,7 +27,7 @@ This project is a **graduation project** that improves online fashion shopping u
 
 ---
 
-## 🔹 Dataset
+## 🌐 Dataset
 - Collected from multiple fashion e-commerce websites: **Defacto, Mitcha, Amazon**
 - Includes images, price, category, gender, and product link
 - Over **9,000 products** across multiple categories
