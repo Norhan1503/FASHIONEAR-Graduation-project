@@ -32,3 +32,16 @@ This project is a **graduation project** that improves online fashion shopping u
 - Includes images, price, category, gender, and product link
 - Over **9,000 products** across multiple categories
 
+  ---
+
+## 🎯 Accuracy 
+# Classication model:
+-Overall Accuracy: 97% (on 1794 test samples)
+-Macro Avg (Unweighted Mean): Precision: 0.96, Recall: 0.96, F1-Score: 0.96
+-Weighted Avg (Accounts for Support): Precision: 0.97, Recall: 0.97, F1-Score: 0.97
+
+# Prediction model:
+-MAE : 196
+-MAPE : 28%
+
+
