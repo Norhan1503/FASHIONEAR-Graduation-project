@@ -42,6 +42,6 @@ This project is a **graduation project** that improves online fashion shopping u
 
 - **Price Prediction Model**  
   - **MAE**: 196  
-  - **MAPE**: 28  
+  - **MAPE**: 28%
 
 
