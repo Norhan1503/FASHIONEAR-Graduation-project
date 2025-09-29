@@ -34,7 +34,7 @@ This project is a **graduation project** that improves online fashion shopping u
 
   ---
 
-🎯 Accuracy
+## 🎯 Accuracy
 - **Classification Model**  
   - Overall Accuracy: **97%** (on 1794 test samples)  
   - Macro Avg (Unweighted Mean): Precision: **0.96**, Recall: **0.96**, F1-Score: **0.96**  
