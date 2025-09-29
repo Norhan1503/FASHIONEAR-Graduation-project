@@ -34,14 +34,14 @@ This project is a **graduation project** that improves online fashion shopping u
 
   ---
 
-## 🎯 Accuracy 
-# Classication model:
--Overall Accuracy: 97% (on 1794 test samples)
--Macro Avg (Unweighted Mean): Precision: 0.96, Recall: 0.96, F1-Score: 0.96
--Weighted Avg (Accounts for Support): Precision: 0.97, Recall: 0.97, F1-Score: 0.97
+🎯 Accuracy
+- **Classification Model**  
+  - Overall Accuracy: **97%** (on 1794 test samples)  
+  - Macro Avg (Unweighted Mean): Precision: **0.96**, Recall: **0.96**, F1-Score: **0.96**  
+  - Weighted Avg (Accounts for Support): Precision: **0.97**, Recall: **0.97**, F1-Score: **0.97**  
 
-# Prediction model:
--MAE : 196
--MAPE : 28%
+- **Price Prediction Model**  
+  - **MAE**: 196  
+  - **MAPE**: 28  
 
 
