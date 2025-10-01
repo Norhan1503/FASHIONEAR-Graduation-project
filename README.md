@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>AI Powered Visual Search & Price Prediction Website For Fashion</b>
+  <b>E-commerce Visual Search & Price Prediction Website For Fashion</b>
 </p>
 
 ---
