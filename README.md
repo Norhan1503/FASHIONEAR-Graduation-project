@@ -1,13 +1,14 @@
-# FASHIONEAR : AI powered Fashion Website
+# :womans_hat: FASHIONEAR : AI powered Fashion Website
+
 <p align="center">
   <img src="images/logo.jpg" alt="Logo" width="400"/>
 </p>
 
-<p align="center">
-  <b>AI Powered Visual Search & Price Prediction Website For Fashion</b>
-</p>
+---
 
-This project is a **graduation project** that improves online fashion shopping using **Artificial Intelligence**. It combines **visual search** and **price prediction** for fashion items.
+## 📖 Summary  
+This project is a **graduation project** that improves online fashion shopping using **Artificial Intelligence**.  
+It combines **visual search** and **price prediction** for fashion items.
 
 ---
 
@@ -39,7 +40,7 @@ This project is a **graduation project** that improves online fashion shopping u
 - Includes images, price, category, gender, and product link
 - Over **9,000 products** across multiple categories
 
-  ---
+---
 
 ## 🎯 Accuracy
 - **Classification Model**  
@@ -50,5 +51,3 @@ This project is a **graduation project** that improves online fashion shopping u
 - **Price Prediction Model**  
   - **MAE**: 196  
   - **MAPE**: 28%
-
-
