@@ -1,6 +1,6 @@
 # :womans_hat: FASHIONEAR : AI powered Fashion Website
 <p align="center">
-  <img src="images/logo.png" alt="Logo" width="600"/>
+  <img src="images/logo.png" alt="logo" width="600"/>
 </p>
 
 <p align="center">
