@@ -1,4 +1,4 @@
-# :womans_hat: FASHIONEAR : AI powered Fashion Website
+# FASHIONEAR : AI powered Fashion Website
 
 <p align="center">
   <img src="images/logo.jpg" alt="Logo" width="400"/>
