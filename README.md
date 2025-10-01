@@ -4,6 +4,10 @@
   <img src="images/logo.jpg" alt="Logo" width="400"/>
 </p>
 
+<p align="center">
+  <b>AI Powered Visual Search & Price Prediction Website For Fashion</b>
+</p>
+
 ---
 
 ## 📖 Summary  
