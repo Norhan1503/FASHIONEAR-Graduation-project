@@ -1,4 +1,4 @@
-# FASHIONEAR : AI powered Fashion Website
+# FASHIONEAR : AI Powered Fashion Website
 
 <p align="center">
   <img src="images/logo.jpg" alt="Logo" width="400"/>
