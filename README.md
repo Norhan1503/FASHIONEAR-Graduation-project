@@ -1,4 +1,11 @@
 # :womans_hat: FASHIONEAR : AI powered Fashion Website
+<p align="center">
+  <img src="images/logo.png" alt="Logo" width="600"/>
+</p>
+
+<p align="center">
+  AI Powered Visual Search & Price Prediction Website For Fashion
+</p>
 
 This project is a **graduation project** that improves online fashion shopping using **Artificial Intelligence**. It combines **visual search** and **price prediction** for fashion items.
 
