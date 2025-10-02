@@ -10,7 +10,7 @@
 
 ---
 
-## 📖 Summary  
+## 🛍️ Summary  
 This project is a **graduation project** that improves online fashion shopping using **Artificial Intelligence**.  
 It combines **visual search** and **price prediction** for fashion items.
 
